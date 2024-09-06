@@ -1,6 +1,6 @@
 # Hi, I'm Sarthak Tanwar 👋
 
-I'm a 4th-year B.Tech student at VIT Vellore, majoring in Computer Science Engineering. I'm passionate about machine learning, deep learning, and software development, with experience building custom neural networks and working on real-world datasets. I have a knack for breaking down complex problems and designing efficient solutions, whether through software development or mathematical modeling. When I'm not coding, you'll find me reading up on emerging technologies, experimenting with new tools, or exploring ways to improve and optimize existing workflows. I'm always looking to expand my skill set and tackle challenging projects that push me out of my comfort zone.
+I'm a 4th-year B.Tech student at VIT Vellore, majoring in Computer Science Engineering. I'm passionate about machine learning, deep learning, and software development, with experience building custom neural networks and working on real-world datasets. When I'm not coding, you'll find me reading up on emerging technologies, experimenting with new tools, or exploring ways to improve and optimize existing workflows. I'm always looking to expand my skill set and tackle challenging projects that push me out of my comfort zone.
 
 ### 🚀 Skills
 - Python, Java
