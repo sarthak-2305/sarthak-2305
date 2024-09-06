@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sarthak Tanwar 👋
 
-<!--
-**sarthak-2305/sarthak-2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year B.Tech student at VIT Vellore, majoring in Computer Science. I'm passionate about machine learning, deep learning, and software development, with experience building custom neural networks and working on real-world datasets.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Python, Java
+- Machine Learning & Deep Learning (TensorFlow, Keras)
+- Data Science (Pandas, NumPy, Matplotlib, Scikit-learn)
+- Neural Network Development from Scratch
+- Web Development (HTML, CSS, JavaScript)
+  
+### 🔭 Projects
+- **TensorEase**: A deep learning library built from scratch for neural network models. Implemented forward/backward propagation, activation functions, and custom loss functions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Currently Learning
+- Advanced Neural Network Architectures
+- Deployment of Machine Learning Models
+
+### 💼 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sarthak235/)
+- [Email](mailto:sarthaktanwar50@gmail.com)
+
+Thanks for visiting! 🚀
