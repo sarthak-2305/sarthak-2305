@@ -15,5 +15,6 @@ I'm a 4th-year B.Tech student at VIT Vellore, majoring in Computer Science Engin
 ### 💼 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sarthak235/)
 - [Email](mailto:sarthaktanwar50@gmail.com)
+- [Resume](https://sarthak-tanwar.tiiny.site/)
 
 Thanks for visiting! 🚀
