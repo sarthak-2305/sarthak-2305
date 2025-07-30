@@ -1,16 +1,17 @@
 # Hi, I'm Sarthak Tanwar 👋
 
-I'm a 4th-year B.Tech student at VIT Vellore, majoring in Computer Science Engineering. I'm passionate about machine learning, deep learning, and software development, with experience building custom neural networks and working on real-world datasets. When I'm not coding, you'll find me reading up on emerging technologies, experimenting with new tools, or exploring ways to improve and optimize existing workflows. I'm always looking to expand my skill set and tackle challenging projects that push me out of my comfort zone.
+Machine Learning Engineer driving production‑ready generative‑AI solutions on AWS, turning data into measurable business value; architecting retrieval‑augmented systems, secure MLOps pipelines, and cloud‑native deployments that scale efficiently—passionate about closing the gap between research and real‑world impact and always open to collaborations where AI, AWS cloud, and meaningful problem‑solving meet.
+
 
 ### 🚀 Skills
 - Python, Java
-- Machine Learning & Deep Learning (TensorFlow, Keras)
-- Data Science (Pandas, NumPy, Matplotlib, Scikit-learn)
-- Web Development (HTML, CSS, JavaScript)
-
+- Machine Learning & Deep Learning
+- Amazon Web Services (AWS), Google Cloud Platform (GCP)
+  
 ### 🌱 What I'm Currently Learning
+- Optimizing cloud Architectures
 - Advanced Neural Network Architectures
-- Deployment of Machine Learning Models
+- Deployment of Deep Learning Models and LLMs
 
 ### 💼 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sarthak235/)
