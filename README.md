@@ -9,7 +9,7 @@ Machine Learning Engineer driving production‑ready generative‑AI solutions o
 - Amazon Web Services (AWS), Google Cloud Platform (GCP)
   
 ### 🌱 What I'm Currently Learning
-- Optimizing cloud Architectures
+- Optimizing cloud architectures
 - Advanced Neural Network Architectures
 - Deployment of Deep Learning Models and LLMs
 
